@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="200px" height="200px" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M69.007,117.939c0,30.795,13.828,44.664,22.849,50.451v25.576h15.223v-25.576
+				c9.023-5.787,22.85-19.656,22.85-50.451c0-45.684-30.457-67.689-30.457-67.689S69.007,72.256,69.007,117.939"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-17.1021" y1="129.5352" x2="-13.8978" y2="129.5352" gradientTransform="matrix(0 -57.7371 -57.7371 0 7578.4434 -793.4628)">
+			<stop  offset="0" style="stop-color:#0B3878"/>
+			<stop  offset="0.0045" style="stop-color:#0B3878"/>
+			<stop  offset="0.125" style="stop-color:#183170"/>
+			<stop  offset="0.1778" style="stop-color:#173875"/>
+			<stop  offset="0.4978" style="stop-color:#1D629B"/>
+			<stop  offset="0.7261" style="stop-color:#2380B8"/>
+			<stop  offset="0.8393" style="stop-color:#278BC4"/>
+			<stop  offset="0.9111" style="stop-color:#268AC3"/>
+			<stop  offset="0.9489" style="stop-color:#2485BE"/>
+			<stop  offset="0.9786" style="stop-color:#207CB7"/>
+			<stop  offset="1" style="stop-color:#1C73B0"/>
+		</linearGradient>
+		<rect x="69.007" y="50.25" clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)" width="60.921" height="143.717"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_4_" d="M0.505,193.967h50.684c-4.185-14.02-6.469-28.844-6.469-44.229c0-43.564,18.038-82.913,47.019-111.035
+				C66.924,18.289,35.149,6.033,0.505,6.033V193.967z"/>
+		</defs>
+		<clipPath id="SVGID_5_">
+			<use xlink:href="#SVGID_4_"  overflow="visible"/>
+		</clipPath>
+		
+			<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="-17.0854" y1="130.1836" x2="-13.8818" y2="130.1836" gradientTransform="matrix(0 -58.6687 -58.6687 0 7683.8467 -808.3721)">
+			<stop  offset="0" style="stop-color:#0B3878"/>
+			<stop  offset="0.0045" style="stop-color:#0B3878"/>
+			<stop  offset="0.125" style="stop-color:#183170"/>
+			<stop  offset="0.1778" style="stop-color:#173875"/>
+			<stop  offset="0.4978" style="stop-color:#1D629B"/>
+			<stop  offset="0.7261" style="stop-color:#2380B8"/>
+			<stop  offset="0.8393" style="stop-color:#278BC4"/>
+			<stop  offset="0.9111" style="stop-color:#268AC3"/>
+			<stop  offset="0.9489" style="stop-color:#2485BE"/>
+			<stop  offset="0.9786" style="stop-color:#207CB7"/>
+			<stop  offset="1" style="stop-color:#1C73B0"/>
+		</linearGradient>
+		<rect x="0.505" y="6.033" clip-path="url(#SVGID_5_)" fill="url(#SVGID_6_)" width="91.233" height="187.934"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_7_" d="M108.263,38.703c28.979,28.123,47.016,67.471,47.016,111.035c0,15.385-2.281,30.209-6.469,44.229h50.686
+				V6.033C164.853,6.033,133.087,18.289,108.263,38.703"/>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_7_"  overflow="visible"/>
+		</clipPath>
+		
+			<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="-17.0854" y1="128.9199" x2="-13.8818" y2="128.9199" gradientTransform="matrix(0 -58.6687 -58.6687 0 7717.4717 -808.3721)">
+			<stop  offset="0" style="stop-color:#0B3878"/>
+			<stop  offset="0.0045" style="stop-color:#0B3878"/>
+			<stop  offset="0.125" style="stop-color:#183170"/>
+			<stop  offset="0.1778" style="stop-color:#173875"/>
+			<stop  offset="0.4978" style="stop-color:#1D629B"/>
+			<stop  offset="0.7261" style="stop-color:#2380B8"/>
+			<stop  offset="0.8393" style="stop-color:#278BC4"/>
+			<stop  offset="0.9111" style="stop-color:#268AC3"/>
+			<stop  offset="0.9489" style="stop-color:#2485BE"/>
+			<stop  offset="0.9786" style="stop-color:#207CB7"/>
+			<stop  offset="1" style="stop-color:#1C73B0"/>
+		</linearGradient>
+		<rect x="108.263" y="6.033" clip-path="url(#SVGID_8_)" fill="url(#SVGID_9_)" width="91.232" height="187.934"/>
+	</g>
+</g>
+</svg>
